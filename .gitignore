@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+#Dev_Cpp
+*.layout
+*.win
+
 # Object files
 *.o
 *.ko
